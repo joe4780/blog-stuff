@@ -1,6 +1,6 @@
 module.exports = {
 
-  publicPath: '/',
+  publicPath: '/blogs',
   outputDir: 'docs',
   productionSourceMap: false
 }
